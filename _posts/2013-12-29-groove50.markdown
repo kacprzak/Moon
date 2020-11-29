@@ -1,0 +1,14 @@
+---
+layout: post
+title:  '"Groove 50" drum cover video'
+date:   2013-12-29 16:11:45
+tag:
+- video
+categories: news
+---
+
+Hi everyone. Check out my new drum cover on YouTube. 
+
+<figure>
+<iframe src="//www.youtube.com/embed/-ubqKYX_A6s" frameborder="0" allowfullscreen> </iframe>
+</figure>

@@ -1,4 +1,10 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: Lessons
+  url: /lessons/
+- title: Music
+  url: /video/
+- title: Contact
+  url: /contact/
+- title: Gear
+  url: /gear/

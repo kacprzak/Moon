@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
-reading_time:       true
+title:              Piotr Kacprzak
+bio:                'Drummer on the sea'
+description:        "Online Drums Lessons"
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                ""  #http://localhost:4000
 
 # Jekyll
 permalink:          /:title/
@@ -20,13 +20,13 @@ kramdown:
   entity_output:    as_char
   toc_levels:       1..6
   enable_coderay:   false
-mathjax:            true
+mathjax:            false
 sass:
   sass_dir:         _sass
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+#disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,24 +37,24 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:              kacprzakpiotrek@gmail.com
+#twitter:            username
+facebook:           piotr.kacprzak.90
+#github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          piotrkacprzak
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
-#youtube-channel:   channel
-#soundcloud:        username
+youtube-channel:   UCCyBeWE6a2cqueILolCUESg
+soundcloud:        kacprzak-piotr
 #weibo:             username
 #flickr:            username
 #codepen:           username
